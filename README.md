@@ -102,14 +102,16 @@ Subnet Mask:   255.255.255.0
 ```
 ## 📷 Project Screenshots
 
-### Bus and Star Topologies
+### Bus and Star Topologies-
 
-![Bus and Star Topologies](BUS-STAR_Topologies.png)
+<img width="1525" height="511" alt="BUS-STAR_Topologies" src="https://github.com/user-attachments/assets/7c97cae7-9a53-4110-82ef-dab2ba841ec6" />
 
-### Ring and Hybrid Topologies
+### Hybrid Topology-
 
-![Ring and Hybrid Topologies](RING_BUS_Topology.png)
+<img width="1358" height="651" alt="Hybrid Topology" src="https://github.com/user-attachments/assets/d45adc3c-4cbe-4201-b126-dc89f5ec9835" />
 
-### Successful Connectivity Testing
 
-![Successful Connectivity Testing](Final%20result.png)
+### Successful Connectivity Testing-
+
+<img width="950" height="146" alt="Final result" src="https://github.com/user-attachments/assets/7198fd3c-0fa9-4bb1-aaec-1a9d03e55f4b" />
+
