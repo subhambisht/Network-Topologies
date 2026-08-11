@@ -99,3 +99,17 @@ Example:
 ```text
 IP Address:    192.168.0.1
 Subnet Mask:   255.255.255.0
+```
+## 📷 Project Screenshots
+
+### Bus and Star Topologies
+
+![Bus and Star Topologies](BUS-STAR_Topologies.png)
+
+### Ring and Hybrid Topologies
+
+![Ring and Hybrid Topologies](RING_BUS_Topology.png)
+
+### Successful Connectivity Testing
+
+![Successful Connectivity Testing](Final%20result.png)
